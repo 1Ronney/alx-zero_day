@@ -1,5 +1,2 @@
-My first readme
-
-offsetting the pace of engineers 
-
+My first readme .
 reliving the toughs of the day
