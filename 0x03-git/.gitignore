@@ -1,0 +1,7 @@
+# ignore ALL .log files
+*.log~
+#ignore ALL files in ANY directory named tmp
+temp/~
+# ignore 98
+*.98~
+!bash.log
